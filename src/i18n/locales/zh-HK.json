@@ -1,0 +1,98 @@
+{
+  "app": {
+    "name": "TravelPlanner",
+    "tagline": "計劃每一程，記住每一站",
+    "loading": "載入中…"
+  },
+  "nav": {
+    "trips": "我的行程",
+    "wishlist": "願望清單",
+    "signIn": "使用 Google 登入",
+    "signOut": "登出",
+    "language": "語言"
+  },
+  "home": {
+    "cta": "開始計劃",
+    "subtitle": "目的地、日程、交通、預算同願望清單，一次打理。"
+  },
+  "trips": {
+    "title": "我的行程",
+    "empty": "未有行程，建立第一個啦。",
+    "new": "新增行程",
+    "edit": "編輯行程",
+    "delete": "刪除",
+    "destination": "目的地",
+    "startDate": "出發日",
+    "endDate": "回程日",
+    "currency": "行程貨幣",
+    "hkdRate": "兌港元匯率（1 行程貨幣 = ? HKD）",
+    "budgetTotal": "總預算",
+    "save": "儲存",
+    "cancel": "取消",
+    "days": "日程",
+    "spots": "景點",
+    "addSpot": "加入景點",
+    "searchPlace": "搜尋地點",
+    "time": "時間",
+    "notes": "備註",
+    "noSpots": "呢日未有景點",
+    "share": "分享",
+    "shareCopied": "分享連結已複製",
+    "unshare": "停止分享",
+    "open": "開啟"
+  },
+  "transport": {
+    "label": "交通",
+    "walk": "步行",
+    "transit": "公共交通",
+    "drive": "駕車",
+    "bicycle": "單車",
+    "fetch": "估算路線",
+    "fetching": "估算中…",
+    "none": "未有路線資料"
+  },
+  "budget": {
+    "title": "預算",
+    "total": "總預算",
+    "spent": "已用",
+    "remaining": "剩餘",
+    "expenses": "開支",
+    "add": "新增開支",
+    "amount": "金額",
+    "category": "類別",
+    "note": "備註",
+    "date": "日期",
+    "inTripCurrency": "行程貨幣",
+    "inHkd": "約合港元",
+    "empty": "未有開支記錄"
+  },
+  "wishlist": {
+    "title": "願望清單",
+    "personal": "個人總清單",
+    "trip": "此行程清單",
+    "empty": "清單係空嘅",
+    "add": "新增項目",
+    "name": "想買咩",
+    "price": "價錢",
+    "where": "邊度買",
+    "note": "備註",
+    "bought": "已買",
+    "addToTrip": "加入行程",
+    "selectTrip": "選擇行程"
+  },
+  "share": {
+    "title": "分享行程",
+    "readonly": "只讀預覽",
+    "notFound": "搵唔到呢個分享連結",
+    "loginToEdit": "登入後可編輯自己的行程"
+  },
+  "config": {
+    "missing": "尚未設定 Firebase／Google Maps 環境變數。請複製 .env.example 為 .env 並填入金鑰。"
+  },
+  "common": {
+    "back": "返回",
+    "delete": "刪除",
+    "confirmDelete": "確定刪除？",
+    "error": "出咗錯，請稍後再試"
+  }
+}

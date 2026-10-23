@@ -1,0 +1,98 @@
+{
+  "app": {
+    "name": "TravelPlanner",
+    "tagline": "Plan every trip, keep every stop",
+    "loading": "Loading…"
+  },
+  "nav": {
+    "trips": "My trips",
+    "wishlist": "Wishlist",
+    "signIn": "Sign in with Google",
+    "signOut": "Sign out",
+    "language": "Language"
+  },
+  "home": {
+    "cta": "Start planning",
+    "subtitle": "Destinations, days, transport, budget and wishlists — in one place."
+  },
+  "trips": {
+    "title": "My trips",
+    "empty": "No trips yet. Create your first one.",
+    "new": "New trip",
+    "edit": "Edit trip",
+    "delete": "Delete",
+    "destination": "Destination",
+    "startDate": "Start date",
+    "endDate": "End date",
+    "currency": "Trip currency",
+    "hkdRate": "HKD rate (1 trip currency = ? HKD)",
+    "budgetTotal": "Total budget",
+    "save": "Save",
+    "cancel": "Cancel",
+    "days": "Itinerary",
+    "spots": "Spots",
+    "addSpot": "Add spot",
+    "searchPlace": "Search place",
+    "time": "Time",
+    "notes": "Notes",
+    "noSpots": "No spots for this day",
+    "share": "Share",
+    "shareCopied": "Share link copied",
+    "unshare": "Stop sharing",
+    "open": "Open"
+  },
+  "transport": {
+    "label": "Transport",
+    "walk": "Walk",
+    "transit": "Transit",
+    "drive": "Drive",
+    "bicycle": "Bicycle",
+    "fetch": "Estimate route",
+    "fetching": "Estimating…",
+    "none": "No route yet"
+  },
+  "budget": {
+    "title": "Budget",
+    "total": "Total budget",
+    "spent": "Spent",
+    "remaining": "Remaining",
+    "expenses": "Expenses",
+    "add": "Add expense",
+    "amount": "Amount",
+    "category": "Category",
+    "note": "Note",
+    "date": "Date",
+    "inTripCurrency": "Trip currency",
+    "inHkd": "Approx. HKD",
+    "empty": "No expenses yet"
+  },
+  "wishlist": {
+    "title": "Wishlist",
+    "personal": "Personal list",
+    "trip": "Trip list",
+    "empty": "List is empty",
+    "add": "Add item",
+    "name": "What to buy",
+    "price": "Price",
+    "where": "Where to buy",
+    "note": "Note",
+    "bought": "Bought",
+    "addToTrip": "Add to trip",
+    "selectTrip": "Select trip"
+  },
+  "share": {
+    "title": "Shared trip",
+    "readonly": "Read-only preview",
+    "notFound": "This share link was not found",
+    "loginToEdit": "Sign in to edit your own trips"
+  },
+  "config": {
+    "missing": "Firebase / Google Maps env vars are missing. Copy .env.example to .env and fill in your keys."
+  },
+  "common": {
+    "back": "Back",
+    "delete": "Delete",
+    "confirmDelete": "Delete this?",
+    "error": "Something went wrong. Please try again."
+  }
+}
